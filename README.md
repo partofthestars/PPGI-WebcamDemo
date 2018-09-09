@@ -1,5 +1,5 @@
 # PPGI
-On the Diffusion Process in Photoplethysmograpy Imaging
+On the Diffusion Process in Photoplethysmography Imaging
 
 install the vcredist_x64.exe
 start the application via RUN_PULSE.bat
