@@ -1,4 +1,4 @@
-# PPGI
+# PPGI Webcam Demo
 On the Diffusion Process in Photoplethysmography Imaging
 
 <p align="center"><img width=100% src="https://github.com/partofthestars/PPGI-WebcamDemo/blob/master/webcam_demo.jpg"></p>
