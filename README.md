@@ -2,7 +2,7 @@
 On the Diffusion Process in Photoplethysmography Imaging
 
 <p align="center"><img width=10% src="https://github.com/partofthestars/PPGI-WebcamDemo
-/blob/master/media/ico/webcam_demo.jpg"></p>
+/blob/master/webcam_demo.jpg"></p>
 
 install the vcredist_x64.exe
 start the application via RUN_PULSE.bat
