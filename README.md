@@ -34,3 +34,12 @@ expects a VGA (640x480) resolution.
 - Lowe/Upper BPM:
   the frequency search space
 
+## References
+
+1. Christian S. Pilz, Jarek Krajewski, Vladimir Blazek.
+On the Diffusion Process for Heart Rate Estimation from Face Videos under Realistic Conditions.
+Pattern Recognition: 39th German Conference, GCPR 2017, Basel, Switzerland.
+Proceedings (Lecture Notes in Computer Science), pp. 361-373, Springer, 2017
+2. Christian S. Pilz, Sebastian Zaunseder, Ulrich Canzler, Jarek Krajewski.
+Heart rate from face videos under realistic conditions for advanced driver monitoring. 
+Current Directions in Biomedical Engineering, De Gruyter, Berlin, pp. 483–487, 2017.
